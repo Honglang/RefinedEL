@@ -8,7 +8,7 @@ Xiang Wang and Honglang Wang developed this source code. For questions, comments
 
 ## This folder contains: 
 - Functions.R: contains the main functions for our analysis
-- real_data_application: contains the script files: ADNI_AD_data_application.R, ADNI_CN_data_application.R, ADNI_EMCI_data_application.R, ADNI_LMCI_data_application.R, ADNI_SMC_data_application.R, cd4_data_application.R, and pm25_data_application.R that has to be run to reproduce the results of the real data analysis, and the data ADNIMERGE.csv, longiCD4.txt, and pm2.5.csv.
+- real_data_application: contains the script files ADNI_AD_data_application.R, ADNI_CN_data_application.R, ADNI_EMCI_data_application.R, ADNI_LMCI_data_application.R, ADNI_SMC_data_application.R, cd4_data_application.R, and pm25_data_application.R, which reproduce the real-data analyses. The non-ADNI example datasets longiCD4.txt and pm2.5.csv are included in the data directory. ADNI participant-level data and the accompanying data dictionary are not distributed with this repository. Eligible researchers must obtain these files directly from ADNI and comply with the applicable data-use agreement.
 - simulation_program.R: R code to reproduce the result of the simulation study. 
 
 

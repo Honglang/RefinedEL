@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+data/ADNIMERGE.csv
+data/ADNIMERGE_DICT.csv
